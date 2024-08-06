@@ -1,4 +1,4 @@
-# Qwik City App ⚡️
+# Qwik Starter For Stackblitz ⚡️ (qwik.new)
 
 - [Qwik Docs](https://qwik.dev/)
 - [Discord](https://qwik.dev/chat)
